@@ -88,7 +88,7 @@ ENV/
 # Rope project settings
 .ropeproject
 
-#Copied from the Cwiid .gitignore
+# Copied from the Cwiid .gitignore
 *.d
 *.o
 *.a
